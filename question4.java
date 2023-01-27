@@ -39,5 +39,3 @@ public static void main(String[] args)
 		System.out.println("Not Balanced");
 }
 }
-
-// This code is contributed by divyeshrabadiya07
